@@ -1,0 +1,28 @@
+name: Sacred Crystal Meanings
+favicon: null
+layout_spectrum: 0.4855772592127323
+typography_spectrum: 0.888431959785521
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3753779996186495
+  lightness: 0.3144955050665885
+  saturation: 0.6642742524854839
+  rhythmicContrast: 0.1264563244767487
+purpose: []
