@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[High energy of the sacred boosted to the next level.]]></title>
+        <description><![CDATA[High energy of the sacred boosted to the next level.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jan 2016 23:05:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Crystals Energy Boost]]></title>
+            <description><![CDATA[<article><h1>Crystals Energy Boost</h1><p>Crystals have been sacred in many cultures throughout history. They still are today. Their energy can be a fresh boost to our environments, our relationships, and our lives.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba40308a5c9a3313ce44d1eb51392617b29959ff.jpg"></article>]]></description>
+            <link>undefinedcrystals-energy-boost/index.html</link>
+            <guid isPermaLink="false">6d6028d2-b505-4bd7-8ed7-a940d625ac31</guid>
+            <pubDate>Sat, 23 Jan 2016 23:04:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
